@@ -1,0 +1,16 @@
+Archivo procesado: reclamos_20241024133617.csv
+  Póliza: 1234, Estado: Aprobado, Razón: Reclamo válido
+
+Archivo procesado: reclamos_20241024135025.csv
+  Póliza: 4, Estado: Rechazado, Razón: Descripción vacía
+
+Archivo procesado: reclamos_20241024135213.csv
+  Póliza: 001, Estado: Rechazado, Razón: Fecha de siniestro es en el futuro
+  Póliza: 0, Estado: Aprobado, Razón: Reclamo válido
+
+Archivo procesado: reclamos_20241024135659.csv
+  Póliza: h, Estado: Aprobado, Razón: Reclamo válido
+
+Archivo procesado: reclamos_20241024140136.csv
+  Póliza: A0, Estado: Rechazado, Razón: Fecha de siniestro es en el futuro
+

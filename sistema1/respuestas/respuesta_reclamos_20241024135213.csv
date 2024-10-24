@@ -1,0 +1,3 @@
+numero_poliza,estado,razon
+001,Rechazado,Fecha de siniestro es en el futuro
+0,Aprobado,Reclamo válido
